@@ -21,7 +21,7 @@
 		<li><a href="http://www.engineyard.com/blog/2011/the-number-one-trait-of-a-great-developer/">The Number One Trait of a Great Developer</a></li>
 		<li><a href="http://yamlabs.com/blog/showing_not_telling.html">Showing, not telling (time wasting in meetings)</a></li>
 		<li><a href="http://sealedabstract.com/rants/why-software-projects-are-terrible-and-how-to-not-fix-them/">Why Software Projects are Terrible and How Not To Fix Them</a></li>
-		<li><a href="/resources/media/scaledsimplicity.png">Scaled Simplicity</a></li>
+		<li><a href="${resource(dir: 'media', file: 'scaledsimplicity.png')}">Scaled Simplicity</a></li>
 	</ul>
 </body>
 </html>

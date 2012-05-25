@@ -10,7 +10,7 @@
 
 	<h3><span class="orange">UN</span>PLEXING Backgrounds</h3>
 	<ul>
-		<li><a href="/resources/media/unplexing-zen.jpg">Unplexing - Zen</a></li>
+		<li><a href="${resource(dir: 'media', file: 'unplexing-zen.jpg')}">Unplexing - Zen</a></li>
 	</ul>
 </body>
 </html>

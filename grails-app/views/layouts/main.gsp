@@ -6,18 +6,9 @@
 	<meta name="author" content="Adam Presley,Jesse Roach">
 	<meta name="description" content="UNPLEXING, the art of simply software engineering." />
 
-	<link rel="stylesheet" href="${resource(dir: 'css', file: 'bootstrap.css')}" />
-	<link rel="stylesheet" href="${resource(dir: 'css', file: 'bootstrap-responsive.css')}" />
-	<link rel="stylesheet" href="${resource(dir: 'css', file: 'main.css')}" />
-
-	<!--[if lt IE 9]>
-		<script src="${resource(dir: 'js', file: 'html5.js')}"></script>
-	<![endif]-->
-
-	<script type="text/javascript" src="${resource(dir: 'js', file: 'jquery-1.7.2.js')}"></script>
-	<script type="text/javascript" src="${resource(dir: 'js', file: 'bootstrap.js')}"></script>
-	<script type="text/javascript" src="${resource(dir: 'js', file: 'application.js')}"></script>
-
+	<link rel="shortcut icon" href="${resource(dir: 'images', file: 'favicon.ico')}" />
+	
+	<r:require module="core" />
 	<g:layoutHead />
 	<r:layoutResources />
 </head>
