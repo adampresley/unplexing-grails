@@ -59,8 +59,6 @@
 			<p>&copy; Adam Presley and Jesse Roach, ${new Date().format("yyyy")}</p>
 
 			<section style="text-align: center; margin-top: 30px;">
-				Runs on <a href="jelastic.com">Jelastic - Rock-solid Java in the Cloud</a><br />
-				<a href="http://www.servint.net/index.php?refid=AEB927585973"><img alt="Hosted by ServInt" src="http://img.servint.net/180x60-hostedby.jpg" border=0></a><br />
 				<img src="${resource(dir: 'images', file: 'grails_logo.png')}" alt="Built on Grails" />
 		</footer>
 	</div>
